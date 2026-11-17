@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_013,loi_may,"YOLO26 gọi tuk-tuk là car hoặc truck; box YOLOE bị lỏng viền","Luôn gán three_wheeler cho mọi xe 3 bánh chở khách/hàng; nắn box sát mép bánh","Mục 2.1: Xe ba gác, tuk-tuk chở khách dù có mui/cabin che vẫn dán three_wheeler, không dán car hay truck",v1.1
+CAL-02,img_001|img_020,cau_hoi_mo,"Người ngồi trên xe máy/xe đạp gán chung hay tách rời","Tách 2 box riêng biệt chồng lên nhau: 1 box person và 1 box motorbike/bicycle","Mục 4.1: Rider Rule: Người lái và người ngồi sau xe hai bánh gán box person riêng, xe gán box phương tiện riêng",v1.1
+CAL-03,img_035|img_031,bay_lot,"Bẫy loose box (box bị lỏng >20% diện tích) bị lọt khi duyệt nhanh","Quy định kiểm tra 4 điểm cực trị tiếp xúc của box với viền ngoài vật thể","Mục 3.2: Tightness Rule: Box phải chạm sát ít nhất 3 điểm cực trị; khe hở biên >10px bị tính là lỗi kích thước",v1.1
