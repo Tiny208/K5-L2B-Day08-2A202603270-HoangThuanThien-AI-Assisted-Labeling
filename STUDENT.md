@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2-3
 - Tài khoản GitHub: Tiny208
 - Repo bài nộp (URL): https://github.com/Tiny208/K5-L2B-HoangThuanThien-2A202603270-Day08-AI-Assisted-Labeling
-- Commit chốt bài (hash): a73ff5a
+- Commit chốt bài (hash): fd38c42
 - Máy: macOS Sonoma / Apple Silicon (MPS)
 - CVAT (Docker): v2.74.1
 
